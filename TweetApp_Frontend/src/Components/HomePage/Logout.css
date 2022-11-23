@@ -1,0 +1,11 @@
+.sidebar_logout{
+    background-color: var(--tweet-color) !important;
+    border: none !important;
+    color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    border-radius: 30px !important;
+    height: 50px !important;
+    /* width: 200px !important;  */
+    margin-top: 130px !important;
+}

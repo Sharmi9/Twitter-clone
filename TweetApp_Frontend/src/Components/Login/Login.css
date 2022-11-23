@@ -1,0 +1,90 @@
+body{
+    background-color: #fafafa;
+}
+
+.Login_login{
+    display: flex;
+    margin:15px;
+    /* padding-top: 30px; */
+}
+.Login_logo{
+    width: 175px;
+    /* margin:8px; */
+
+}
+.Login_Left{
+    padding-top: 40px;  
+    text-align: center;
+}
+.Login_Right{
+    margin-left: 25px;
+    width: 350px;
+    padding-bottom: 25px;
+    /* height: 335px; */
+    border: 1px solid #DBDBDB;
+    text-align: center;
+    background-color: white;
+    margin-top: 12px;
+    /* border-width: 2px; */
+}
+.Login_Signin{
+    margin-top:1px;
+}
+.Login_text{
+    width: 258px;
+    height: 36px;
+    margin: 3px;
+    border: 1px solid #DBDBDB;
+    background-color: #fafafa ;
+    padding-left: 10px;
+    border-radius: 10px;
+    /* border-width: 2px; */
+}
+.Login_button{
+    width: 250px;
+    height: 35px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 5px;
+    border: 1px solid #0395F6;
+    background-color: #0395F6;
+    color: white;
+    cursor: pointer;
+}
+.Login_ordiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.Login_divider{
+    width: 80px;
+    height: 0px;
+    border: 1px solid #DBDBDB;
+    margin-top: 10px;
+}
+
+.Login_or{
+    margin: 0px 25px;
+    font-weight: bold;
+    color: #8E8E8E;
+}
+.Login_forgot{
+    color: rgba(var(--fe0,0,55,107),1);
+    font-size: 16px;
+    line-height: 14px;
+    margin-top: 15px;
+    text-align: center;
+}
+.Login_Signup{
+    width: 350px;
+    height: 50px;
+    background-color: white;
+    border: 1px solid #DBDBDB;
+    margin-left: 25px;
+    text-align: center;
+    margin-top: 15px;
+}
+.Login_signupText{
+    padding-top: 14px;
+    cursor: pointer;
+}
